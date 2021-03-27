@@ -6,3 +6,7 @@ body {
 .navbar-dark {
     background-color: #4D577C!important;
 }
+
+.class{
+  background-attachment: fixed;
+}
